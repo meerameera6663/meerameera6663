@@ -1,227 +1,153 @@
-::: {align="center"}
-# Hey there, I'm Meera 👋
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-### BCA (Artificial Intelligence) Student \| Aspiring Developer \| Curious Builder
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi%2C%20I'm%20Meera&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20%E2%80%A2%20Artificial%20Intelligence%20%E2%80%A2%20Aspiring%20ML%20Engineer&descAlignY=60&descSize=18" width="100%" alt="header"/>
 
-*I'm learning by building, documenting my progress, and turning ideas
-into practical projects.*
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Building+smart+things+with+Python+%F0%9F%90%8D;Turning+data+into+decisions+%F0%9F%93%8A;Training+models%2C+one+epoch+at+a+time+%F0%9F%A4%96;Open+to+internships+%26+collaboration+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7C3AED&center=true&vCenter=true&width=650&lines=Exploring+Artificial+Intelligence;Learning+Python+%26+NumPy;Building+my+developer+foundation;One+project+at+a+time+%F0%9F%9A%80" alt="Typing introduction" />`{=html}
+<br/>
 
-```{=html}
-<p>
-```
-`<a href="https://github.com/meerameera6663">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />`{=html}
-`</a>`{=html}
-`<img src="https://img.shields.io/badge/Focus-AI%20%26%20Software%20Development-7C3AED?style=for-the-badge" alt="Focus: AI and software development" />`{=html}
-`<img src="https://img.shields.io/badge/Learning-Always-0EA5E9?style=for-the-badge&logo=bookstack&logoColor=white" alt="Always learning" />`{=html}
-```{=html}
-</p>
-```
-:::
+![Profile Views](https://komarev.com/ghpvc/?username=meerameera6663&label=Profile%20Views&color=a855f7&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/meerameera6663?style=for-the-badge&logo=github&color=7c3aed)
+![Status](https://img.shields.io/badge/Open%20to-Internships-brightgreen?style=for-the-badge)
 
-------------------------------------------------------------------------
+</div>
 
-## ✨ About Me
+---
 
-I'm a **Bachelor of Computer Applications (BCA) student specializing in
-Artificial Intelligence**. I'm building my foundation in programming,
-data handling, and software development, with a long-term goal of
-becoming a skilled developer who can create useful, user-friendly
-technology.
+## 👩‍💻 About Me
 
-I believe in learning through practice: understanding the logic,
-building small projects, learning from mistakes, and improving with
-every iteration. I'm especially interested in the intersection of **AI,
-web development, and real-world problem-solving**.
+```python
+class Meera:
+    def __init__(self):
+        self.education  = "BCA (Artificial Intelligence)"
+        self.focus      = ["Machine Learning", "Data Analysis", "Web Development"]
+        self.currently  = "Learning Deep Learning & building AI projects"
+        self.mindset    = "Learn fast. Build more. Ship it."
+        self.open_to    = ["Internships", "Open-source", "Collaborations"]
 
--   🎓 **Education:** BCA --- Artificial Intelligence
--   💻 **Current focus:** Python, NumPy, programming fundamentals, and
-    Git/GitHub
--   🌐 **Exploring:** Front-end development and full-stack development
--   🧠 **Interests:** Artificial Intelligence, data science, automation,
-    and practical software projects
--   🎨 **Creative side:** Digital design, visual storytelling, and
-    making technical work look polished
--   🎯 **Goal:** Grow through meaningful projects, collaboration, and
-    internship opportunities
-
-> I'm early in my professional journey, so this profile is a living
-> portfolio of what I'm learning, building, and improving.
-
-## 🧰 Skills & Technologies
-
-*This section reflects my current learning journey---not a claim of
-professional-level mastery.*
-
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,html,css,git,github,vscode,linux&perline=7" alt="Python, HTML, CSS, Git, GitHub, VS Code, and Linux icons" />`{=html}
-```{=html}
-</p>
-```
-  -----------------------------------------------------------------------
-  Area                                Current skills / learning
-  ----------------------------------- -----------------------------------
-  **Programming**                     Python fundamentals; practicing
-                                      problem-solving and code logic
-
-  **Python ecosystem**                NumPy basics and array
-                                      indexing/slicing
-
-  **Web development**                 Revisiting HTML and learning
-                                      front-end foundations
-
-  **Databases**                       DBMS concepts and SQL foundations
-                                      through coursework
-
-  **Data & productivity**             Data Science using Excel; working
-                                      with data and spreadsheets
-
-  **Tools & workflow**                VS Code, Git/GitHub fundamentals,
-                                      Linux and shell-programming
-                                      concepts
-
-  **Creative tools**                  Exploring digital design and visual
-                                      content workflows
-  -----------------------------------------------------------------------
-
-## 🚀 Projects & Project Ideas
-
-I'm building my portfolio step by step. The ideas below are **work in
-progress / planned concepts**, not claims of completed production
-projects. I'll update each entry with a repository, screenshots,
-features, and what I learned as I build it.
-
-### 1. 🚦 AI-Based Traffic Management --- Concept
-
-**Goal:** Explore how AI and computer vision could help analyze traffic
-conditions and support smarter traffic-flow decisions.
-
--   **Areas to explore:** Computer vision, object detection,
-    traffic-density analysis, and Python
--   **Next milestone:** Build a small proof of concept and document its
-    limitations
--   **Status:** Idea / planned learning project
-
-### 2. 🎥 AI Video Detection --- Concept
-
-**Goal:** Investigate how video analysis can identify objects or events
-in recorded footage.
-
--   **Areas to explore:** Python, video processing, and object-detection
-    models
--   **Next milestone:** Test a simple model on sample footage and record
-    results responsibly
--   **Status:** Idea / planned learning project
-
-### 3. 🧪 Python & NumPy Practice
-
-**Goal:** Strengthen programming fundamentals by practicing arrays,
-indexing, slicing, and data manipulation.
-
--   **Areas practiced:** Multidimensional arrays, indexing, and slicing
--   **Next milestone:** Organize exercises into a documented repository
-    with examples and outputs
--   **Status:** Learning / practice
-
-> **Add your real repositories here:** Replace these concept cards with
-> links to completed projects as soon as they are available. A small
-> finished project with a clear README is more convincing than an
-> ambitious idea with no implementation.
-
-## 💼 Experience & Learning Journey
-
-### Academic experience --- BCA in Artificial Intelligence
-
-**2024 -- Present**
-
-Through my degree, I'm studying computing fundamentals and exploring
-areas such as Python programming, databases, data science with Excel,
-Linux shell programming, and AI concepts. I'm using coursework as a
-starting point and strengthening it with independent practice.
-
-### Self-directed technical learning
-
-**Ongoing**
-
--   Practicing Python and NumPy, including array indexing and slicing.
--   Revisiting web-development fundamentals and exploring a path toward
-    full-stack development.
--   Learning Git and GitHub to understand version control and present
-    work publicly.
--   Exploring AI project concepts that connect technical learning with
-    real-world problems.
-
-### Internship readiness & professional growth
-
-I'm actively working toward practical experience and opportunities where
-I can learn from a team, contribute reliably, and improve my development
-skills. I value feedback, clear documentation, and understanding *why*
-code works---not just copying a solution.
-
-*If you have completed an internship, freelance work, a hackathon, or a
-college project, add the organization/event, dates, your role, and
-measurable results here. Keep this section factual and specific.*
-
-## 📚 Currently Learning
-
-``` text
-Python & problem-solving   █████░░░░░  Practicing
-NumPy & data handling      ████░░░░░░  Building foundations
-Git & GitHub               ████░░░░░░  Learning workflow
-Front-end development      ███░░░░░░░  Revisiting fundamentals
-AI project development     ██░░░░░░░░  Exploring concepts
+    def say_hi(self):
+        return "Let's build something awesome together! 🚀"
 ```
 
-*Progress bars are visual snapshots of my learning focus, not formal
-skill ratings.*
+I'm a BCA (AI) student who loves turning ideas into working code. I focus on **machine learning, data analysis, and clean problem solving**, and I learn best by building real projects.
 
-## 📊 GitHub at a Glance
+---
 
-::: {align="center"}
-`<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics card" />`{=html}
-`<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages card" />`{=html}
+## 🧰 Tech Stack
 
-`<img src="https://streak-stats.demolab.com?user=YOUR-GITHUB-USERNAME&theme=tokyonight&hide_border=true" alt="GitHub contribution streak card" />`{=html}
-:::
+<div align="center">
 
-> These cards will populate after you replace `YOUR-GITHUB-USERNAME`
-> with your exact GitHub username. Language statistics reflect code in
-> repositories, not overall ability.
+**Languages**
 
-## 🌱 What I'm Looking For
+<img src="https://skillicons.dev/icons?i=py,java,c,js,html,css&theme=dark" alt="languages"/>
 
--   Internship opportunities and beginner-friendly real-world projects
--   Collaboration with students and developers who enjoy learning by
-    building
--   Feedback on my code, documentation, and project ideas
--   Opportunities to grow in software development, AI, and web
-    technologies
+**AI / ML & Data**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,numpy,opencv&theme=dark" alt="ai-ml"/>
+
+**Databases, Backend & Tools**
+
+<img src="https://skillicons.dev/icons?i=mysql,flask,git,github,linux,vscode&theme=dark" alt="tools"/>
+
+</div>
+
+<details>
+<summary><b>📚 Core Computer Science Knowledge (click to expand)</b></summary>
+<br/>
+
+| Area | Topics |
+|------|--------|
+| 🧮 **DSA** | Arrays, Linked Lists, Stacks, Queues, Trees, Sorting & Searching |
+| 🧱 **OOP** | Classes, Inheritance, Polymorphism, Encapsulation |
+| 🗄️ **DBMS** | SQL, Normalization, Joins, ER Modeling |
+| 🖥️ **CS Fundamentals** | Operating Systems, Computer Networks, Software Engineering |
+| 🤖 **AI / ML** | Supervised & Unsupervised Learning, Regression, Classification, Neural Network Basics |
+
+</details>
+
+---
+
+## 🔥 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | 📝 What it does | 🛠️ Built with |
+|:-----------|:----------------|:--------------|
+| **[Project One](https://github.com/meerameera6663/REPO_NAME)** | Short description of the problem it solves | `Python` `Scikit-learn` `Pandas` |
+| **[Project Two](https://github.com/meerameera6663/REPO_NAME)** | Short description of the problem it solves | `TensorFlow` `NumPy` |
+| **[Project Three](https://github.com/meerameera6663/REPO_NAME)** | Short description of the problem it solves | `HTML` `CSS` `JavaScript` |
+
+</div>
+
+<div align="center">
+
+[![Project 1](https://github-readme-stats.vercel.app/api/pin/?username=meerameera6663&repo=REPO_NAME&theme=radical)](https://github.com/meerameera6663/REPO_NAME)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=meerameera6663&repo=REPO_NAME_2&theme=radical)](https://github.com/meerameera6663/REPO_NAME_2)
+
+</div>
+
+---
+
+## 💡 What I Do Beyond Classes
+
+<table align="center">
+<tr>
+<td align="center" width="25%">🧠<br/><b>ML Experiments</b><br/><sub>Training models on real datasets</sub></td>
+<td align="center" width="25%">💻<br/><b>Problem Solving</b><br/><sub>LeetCode / HackerRank practice</sub></td>
+<td align="center" width="25%">🌐<br/><b>Web Projects</b><br/><sub>Responsive sites and small apps</sub></td>
+<td align="center" width="25%">🤝<br/><b>Open Source</b><br/><sub>Exploring and contributing</sub></td>
+</tr>
+<tr>
+<td align="center">📊<br/><b>Data Visualization</b><br/><sub>Turning data into insights</sub></td>
+<td align="center">🔍<br/><b>AI Tools & LLMs</b><br/><sub>Prompt engineering & exploration</sub></td>
+<td align="center">📖<br/><b>Research Reading</b><br/><sub>Tech blogs & AI papers</sub></td>
+<td align="center">🏆<br/><b>Hackathons</b><br/><sub>Building fast with teams</sub></td>
+</tr>
+</table>
+
+---
+
+## 🎯 Currently
+
+- 🔭 **Building:** _your current project_
+- 🌱 **Learning:** Deep Learning, Advanced DSA, SQL
+- 🎯 **Goal:** Land an AI / Data internship and grow as an ML engineer
+- 💬 **Ask me about:** Python, machine learning basics, data analysis
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=meerameera6663&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meerameera6663&layout=compact&theme=radical&hide_border=true" alt="top langs"/>
+
+<img src="https://streak-stats.demolab.com?user=meerameera6663&theme=radical&hide_border=true" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=meerameera6663&theme=react-dark&hide_border=true&area=true" alt="activity graph" width="100%"/>
+
+</div>
+
+---
 
 ## 🤝 Let's Connect
 
-I'm happy to connect with fellow learners, developers, mentors, and
-recruiters.
+<div align="center">
 
-```{=html}
-<p align="center">
-```
-`<a href="https://github.com/YOUR-GITHUB-USERNAME">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />`{=html}
-`</a>`{=html} `<a href="mailto:YOUR-EMAIL@example.com">`{=html}
-`<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
-::: {align="center"}
-### *Learning consistently. Building thoughtfully. Improving every day.* ✨
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_LINK)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
 
-`<img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&style=flat-square&color=7C3AED&label=PROFILE+VIEWS" alt="Profile view counter" />`{=html}
-:::
+<br/>
+
+*⭐ Thanks for visiting! If you like my work, drop a star on my repos.*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="footer"/>
+
